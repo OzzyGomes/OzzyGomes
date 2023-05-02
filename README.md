@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozzy Gomes</h1>
 <h3 align="center">A passionate Dados and Python</h3>
 
-- 🔭 I’m currently working on [Data Analyst and Automator](https://br.linkedin.com/company/stefanini-brasil)
+- 🔭 I’m currently working on [Data Analyst and Automator](https://br.linkedin.com/)
 
 - 🌱 I’m currently learning **Machine Learning, Computer Vision, Python, Frameworks and Visualizations**
 
