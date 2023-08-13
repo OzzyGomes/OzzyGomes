@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ozzy Gomes</h1>
 <h3 align="center">A passionate Dados and Python</h3>
 
-- 🔭 I’m currently working on [Data Analyst and Automator](https://br.linkedin.com/)
+- 🔭 I’m currently working on [Data Analyst](https://www.linkedin.com/company/digiobrasil)
 
-- 🌱 I’m currently learning **Machine Learning, Computer Vision, Python, Frameworks and Visualizations**
+- 🌱 I’m currently learning **Deep Learnig, Machine Learning, MQL5, Frameworks and Visualizations**
 
-- 👯 My Area of Interest's are **Data Science, Python, VBA and Self Improvement**
+- 👯 My Area of Interest's are **Data Science in General, Python, R, MQL5, SQL VBA and Self Improvement**
 
 - 📫 How to reach me **ozzygomes@outlook.com**
 
