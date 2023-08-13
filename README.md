@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozzy Gomes</h1>
-<h3 align="center">A passionate Dados and Python</h3>
+<h3 align="center">A passionate Data and Python</h3>
 
 - 🔭 I’m currently working on [Data Analyst](https://www.linkedin.com/company/digiobrasil)
 
