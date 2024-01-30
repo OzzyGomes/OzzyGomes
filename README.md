@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learnig, Machine Learning,Time Series, MQL5, Frameworks and Visualizations**
 
-- 👯 My Area of Interest's are **Data Science in General, Python, R, MQL5, SQL VBA and Self Improvement**
+- 👯 My Area of Interest's are **Data Science in General, Python, Databricks, R, MQL5, SQL, VBA, Pyspark and Self Improvement**
 
 - 📫 How to reach me **ozzygomes@outlook.com**
 
