@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Analyst](https://www.linkedin.com/company/digiobrasil)
 
-- 🌱 I’m currently learning **Deep Learnig, Machine Learning,Time Series, MQL5, Frameworks and Visualizations**
+- 🌱I really like to studying **Deep Learnig, Machine Learning,Time Series, MQL5, Frameworks and Visualizations**
 
 - 👯 My Area of Interest's are **Data Science in General, Python, Databricks, R, MQL5, SQL, VBA, Pyspark and Self Improvement**
 
