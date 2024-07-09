@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ozzy Gomes</h1>
 <h3 align="center">A passionate Data and Python</h3>
 
-- 🔭 I’m currently working on [Data Analyst](https://www.linkedin.com/company/digiobrasil)
+- 🔭 I’m currently working like [Senior Data Engineer](https://br.linkedin.com/company/yssy-tecnologia)
 
-- 🌱I really like to studying **Deep Learnig, Machine Learning,Time Series, MQL5, Frameworks and Visualizations**
+- 🌱I really like to studying **LLMs, Agents, Deep Learnig, Machine Learning,Time Series, MQL5, Frameworks and Visualizations**
 
-- 👯 My Area of Interest's are **Data Science in General, Python, Databricks, R, MQL5, SQL, VBA, Pyspark and Self Improvement**
+- 👯 My Area of Interest's are **Data Science nad in General, Python, Databricks, R, MQL5, SQL, VBA, Pyspark and Self Improvement**
 
 - 📫 How to reach me **ozzygomes@outlook.com**
 
