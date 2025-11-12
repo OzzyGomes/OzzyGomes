@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozzy Gomes</h1>
 <h3 align="center">A passionate Data and Python</h3>
 
-- 🔭 I’m currently working like [Senior Data Engineer](https://br.linkedin.com/company/yssy-tecnologia)
+- 🔭 I’m currently working like Senior Data Engineer
 
 - 🌱I really like to studying **LLMs, Agents, Deep Learnig, Machine Learning,Time Series, MQL5, Frameworks and Visualizations**
 
